@@ -1,5 +1,5 @@
-#operasi tambah 
-a= 27
-b= 9
-hasil = a+b
-print (a, '+', b, '=', hasil)
+#operasi kurang
+a= -12
+b= 7
+hasil = a-b
+print (a, '-', b, '=', hasil)
