@@ -1,5 +1,5 @@
-#operasi perkalian
-a= 8
-b= 19
-hasil = a*b
-print (a, '*', b, '=', hasil)
+#operasi pembagian
+a= 75
+b= 5
+hasil = a/b
+print (a, '/', b, '=', hasil)
