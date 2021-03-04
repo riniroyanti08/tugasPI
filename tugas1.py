@@ -1,5 +1,5 @@
-#operasi kurang
-a= -12
-b= 7
-hasil = a-b
-print (a, '-', b, '=', hasil)
+#operasi perkalian
+a= 8
+b= 19
+hasil = a*b
+print (a, '*', b, '=', hasil)
